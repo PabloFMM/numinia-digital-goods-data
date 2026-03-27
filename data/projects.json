@@ -1,0 +1,24 @@
+{
+  "collections": [
+    {
+      "id": "avatars",
+      "name": "Avatares",
+      "name_en": "Avatars",
+      "type": "vrm",
+      "description": "Avatares VRM listos para VR, juegos y metaverso",
+      "description_en": "VRM avatars ready for VR, games and metaverse",
+      "license": "CC0",
+      "data_file": "data/avatars/numinia-avatars.json"
+    },
+    {
+      "id": "assets",
+      "name": "3D Assets",
+      "name_en": "3D Assets",
+      "type": "glb",
+      "description": "Modelos 3D GLB open-source",
+      "description_en": "Open-source 3D GLB models",
+      "license": "CC0",
+      "data_file": "data/assets/numinia-assets.json"
+    }
+  ]
+}

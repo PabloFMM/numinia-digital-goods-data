@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "vipe-hero-3000",
+    "name": "VIPE Hero 3000",
+    "project_id": "numinia-avatars",
+    "description": "VRM avatar ready for VR, games and metaverse",
+    "model_file_url": "https://raw.githubusercontent.com/TU-USUARIO/numinia-digital-goods-data/main/VIPE_Hero__3000.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-03-27T21:00:00Z",
+    "updated_at": "2026-03-27T21:00:00Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/TU-USUARIO/numinia-digital-goods-data/main/VIPE_Hero__3000.vrm"
+  }
+]

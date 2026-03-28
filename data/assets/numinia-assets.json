@@ -13,6 +13,7 @@
     "thumbnail_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/Pot_Vapor_02.glb"
   }
   
+  ,
   {
     "id": "numinia-starter-assets-chair-01",
     "name": "Numinia Starter Chair 01",
@@ -22,8 +23,8 @@
     "format": "GLB",
     "isPublic": true,
     "isDraft": false,
-    "createdAt": "2026-03-28T08:00:00Z",
-    "updatedAt": "2026-03-28T08:00:00Z",
+    "createdAt": "2026-03-28T10:00:00Z",
+    "updatedAt": "2026-03-28T10:00:00Z",
     "thumbnailUrl": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/numinia_starter_assets_chair-01.glb"
   }
 ]

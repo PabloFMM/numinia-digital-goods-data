@@ -10,7 +10,7 @@
     "is_draft": false,
     "created_at": "2026-03-27T21:00:00Z",
     "updated_at": "2026-03-27T21:00:00Z",
-    "thumbnail_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/VIPE_Hero__3000.vrm"
+    "thumbnailUrl": "https://picsum.photos/id/1005/400/400"
   }
 
   ,
@@ -25,7 +25,7 @@
     "isDraft": false,
     "createdAt": "2026-03-28T10:00:00Z",
     "updatedAt": "2026-03-28T10:00:00Z",
-    "thumbnailUrl": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/numinia_starter_avatar_01.vrm"
+    "thumbnailUrl": "https://picsum.photos/id/1005/400/400"
   }
   
 ]

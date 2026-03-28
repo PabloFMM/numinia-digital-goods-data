@@ -12,4 +12,19 @@
     "updated_at": "2026-03-27T21:00:00Z",
     "thumbnail_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/VIPE_Hero__3000.vrm"
   }
+
+    {
+    "id": "numinia-starter-avatar-01",
+    "name": "Numinia Starter Avatar 01",
+    "projectId": "numinia-avatars",
+    "description": "Avatar VRM starter pack listo para VR y juegos (CC0)",
+    "modelFileUrl": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/numinia_starter_avatar_01.vrm",
+    "format": "VRM",
+    "isPublic": true,
+    "isDraft": false,
+    "createdAt": "2026-03-28T08:00:00Z",
+    "updatedAt": "2026-03-28T08:00:00Z",
+    "thumbnailUrl": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/numinia_starter_avatar_01.vrm"
+  }
+  
 ]

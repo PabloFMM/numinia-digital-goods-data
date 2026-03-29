@@ -6,10 +6,24 @@
     "description": "Vaporwave 3D asset GLB",
     "model_file_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/Pot_Vapor_02.glb",
     "format": "GLB",
-    "is_public": false,
+    "is_public": true,
     "is_draft": false,
     "created_at": "2026-03-27T21:00:00Z",
-    "updated_at": "2026-03-29T23:01:43.379Z",
+    "updated_at": "2026-03-29T23:16:31.153Z",
     "thumbnailUrl": "https://picsum.photos/id/1015/400/400"
+  },
+  {
+    "id": "pot-vapor-02-ni-mncdf2an",
+    "name": "Pot_Vapor_02_ni",
+    "project_id": "numinia-assets",
+    "description": "GLB asset uploaded via Numinia Admin",
+    "model_file_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/uploads/pot-vapor-02-ni-mncdf2an.glb",
+    "thumbnail_url": null,
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-03-29T23:08:56.352Z",
+    "updated_at": "2026-03-29T23:08:56.352Z",
+    "metadata": {}
   }
 ]

@@ -7,10 +7,10 @@
     "thumbnail_url": "https://picsum.photos/id/1005/400/400",
     "model_file_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/VIPE_Hero__3000.vrm",
     "format": "VRM",
-    "is_public": false,
+    "is_public": true,
     "is_draft": false,
     "created_at": "2026-03-27T21:00:00Z",
-    "updated_at": "2026-03-29T22:45:34.643Z",
+    "updated_at": "2026-03-27T21:00:00Z",
     "metadata": {}
   },
   {
@@ -21,10 +21,10 @@
     "thumbnail_url": "https://picsum.photos/id/1005/400/400",
     "model_file_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/numinia_starter_avatar_01.vrm",
     "format": "VRM",
-    "is_public": true,
+    "is_public": false,
     "is_draft": false,
     "created_at": "2026-03-28T10:00:00Z",
-    "updated_at": "2026-03-28T10:00:00Z",
+    "updated_at": "2026-03-29T22:46:58.823Z",
     "metadata": {}
   },
   {

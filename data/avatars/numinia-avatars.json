@@ -27,5 +27,19 @@
     "created_at": "2026-03-29T23:11:12.825Z",
     "updated_at": "2026-03-29T23:11:12.825Z",
     "metadata": {}
+  },
+  {
+    "id": "avatar-senet-mncdsed1",
+    "name": "Avatar Senet",
+    "project_id": "numinia-avatars",
+    "description": "VRM asset uploaded via Numinia Admin",
+    "model_file_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/uploads/avatar-senet-mncdsed1.vrm",
+    "thumbnail_url": null,
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-03-29T23:19:19.053Z",
+    "updated_at": "2026-03-29T23:19:19.053Z",
+    "metadata": {}
   }
 ]

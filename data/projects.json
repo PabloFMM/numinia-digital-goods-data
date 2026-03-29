@@ -1,24 +1,28 @@
 [
   {
-    "id": "numinia-starter-assets",
-    "name": "Numinia Starter Assets",
-    "creator_id": "PabloFMM",
-    "description": "Free CC0 starter 3D assets from Numinia. GLB format, ready for games, VR and 3D projects.",
+    "id": "numinia-avatars",
+    "name": "Avatares",
+    "creator_id": "Numinia",
+    "description": "Avatares VRM listos para VR, juegos y metaverso",
     "is_public": true,
     "license": "CC0",
-    "asset_data_file": "numinia-starter-assets.json",
-    "created_at": "2026-03-30T00:00:00.000Z",
-    "updated_at": "2026-03-30T00:00:00.000Z"
+    "source_type": "github",
+    "storage_type": "github",
+    "created_at": "2026-03-27T21:00:00Z",
+    "updated_at": "2026-03-27T21:00:00Z",
+    "asset_data_file": "avatars/numinia-avatars.json"
   },
   {
-    "id": "numinia-starter-avatars",
-    "name": "Numinia Starter Avatars",
-    "creator_id": "PabloFMM",
-    "description": "Free CC0 starter VRM avatars from Numinia. Compatible with VRChat, Hyperfy, and VRM-supported platforms.",
+    "id": "numinia-assets",
+    "name": "3D Assets",
+    "creator_id": "Numinia",
+    "description": "Modelos 3D GLB open-source",
     "is_public": true,
     "license": "CC0",
-    "asset_data_file": "numinia-starter-avatars.json",
-    "created_at": "2026-03-30T00:00:00.000Z",
-    "updated_at": "2026-03-30T00:00:00.000Z"
+    "source_type": "github",
+    "storage_type": "github",
+    "created_at": "2026-03-27T21:00:00Z",
+    "updated_at": "2026-03-27T21:00:00Z",
+    "asset_data_file": "assets/numinia-assets.json"
   }
 ]

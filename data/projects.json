@@ -1,0 +1,24 @@
+[
+  {
+    "id": "numinia-starter-assets",
+    "name": "Numinia Starter Assets",
+    "creator_id": "PabloFMM",
+    "description": "Free CC0 starter 3D assets from Numinia. GLB format, ready for games, VR and 3D projects.",
+    "is_public": true,
+    "license": "CC0",
+    "asset_data_file": "numinia-starter-assets.json",
+    "created_at": "2026-03-30T00:00:00.000Z",
+    "updated_at": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "id": "numinia-starter-avatars",
+    "name": "Numinia Starter Avatars",
+    "creator_id": "PabloFMM",
+    "description": "Free CC0 starter VRM avatars from Numinia. Compatible with VRChat, Hyperfy, and VRM-supported platforms.",
+    "is_public": true,
+    "license": "CC0",
+    "asset_data_file": "numinia-starter-avatars.json",
+    "created_at": "2026-03-30T00:00:00.000Z",
+    "updated_at": "2026-03-30T00:00:00.000Z"
+  }
+]

@@ -189,5 +189,46 @@
     "created_at": "2026-03-30T16:17:32.921Z",
     "updated_at": "2026-03-30T16:17:32.921Z",
     "metadata": {}
+  },
+  {
+    "id": "ndg-019d4060-770e-777c-ab25-aa7f2f198825",
+    "canonical": "ndg:vrm:019d4060-770e-777c-ab25-aa7f2f198825:v0.1.0",
+    "name": "Avatar Senet 2026",
+    "type": "vrm",
+    "version": "0.1.0",
+    "previous_version": null,
+    "status": "active",
+    "status_reason": null,
+    "license": "CC0",
+    "creator": null,
+    "description": "VRM asset uploaded via Numinia Admin",
+    "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/avatars/ndg-019d4060-770e-777c-ab25-aa7f2f198825.vrm",
+    "thumbnail_url": null,
+    "format": "VRM",
+    "content_type": "model/gltf-binary",
+    "file_size_bytes": 8906412,
+    "file_hash": null,
+    "project_id": "numinia-avatars",
+    "nft": {
+      "type": "standard",
+      "mint_status": "unminted",
+      "chain_id": null,
+      "contract": null,
+      "token_id": null,
+      "owner": null,
+      "mint_tx": null
+    },
+    "storage": {
+      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/avatars/ndg-019d4060-770e-777c-ab25-aa7f2f198825.vrm",
+      "ipfs_cid": null,
+      "arweave_tx": null,
+      "github_raw": null
+    },
+    "tags": [],
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-03-30T20:12:38.119Z",
+    "updated_at": "2026-03-30T20:12:38.119Z",
+    "metadata": {}
   }
 ]

@@ -5,7 +5,7 @@
     "project_id": "numinia-avatars",
     "description": "Avatar VRM starter pack listo para VR y juegos (CC0)",
     "model_file_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/avatars/starter-avatar-01.vrm",
-    "thumbnail_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/thumbnails/numinia-starter-avatar-01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/thumbnails/starter-avatar-01.png",
     "format": "VRM",
     "is_public": true,
     "is_draft": false,

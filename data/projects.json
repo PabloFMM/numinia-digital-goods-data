@@ -1,28 +1,57 @@
 [
   {
     "id": "numinia-avatars",
-    "name": "Avatares",
+    "name": "Avatars",
     "creator_id": "Numinia",
-    "description": "Avatares VRM listos para VR, juegos y metaverso",
+    "description": "VRM avatars for VR, games and metaverse",
     "is_public": true,
     "license": "CC0",
-    "source_type": "github",
-    "storage_type": "github",
     "created_at": "2026-03-27T21:00:00Z",
-    "updated_at": "2026-03-27T21:00:00Z",
+    "updated_at": "2026-03-30T00:00:00Z",
     "asset_data_file": "avatars/numinia-avatars.json"
   },
   {
     "id": "numinia-assets",
-    "name": "3D Assets",
+    "name": "3D Models",
     "creator_id": "Numinia",
-    "description": "Modelos 3D GLB open-source",
+    "description": "GLB 3D models open-source",
     "is_public": true,
     "license": "CC0",
-    "source_type": "github",
-    "storage_type": "github",
     "created_at": "2026-03-27T21:00:00Z",
-    "updated_at": "2026-03-27T21:00:00Z",
+    "updated_at": "2026-03-30T00:00:00Z",
     "asset_data_file": "assets/numinia-assets.json"
+  },
+  {
+    "id": "numinia-worlds",
+    "name": "Worlds & Functionality",
+    "creator_id": "Numinia",
+    "description": "HYP files for Hyperfy worlds, emotes and interactive content",
+    "is_public": true,
+    "license": "CC0",
+    "created_at": "2026-03-30T00:00:00Z",
+    "updated_at": "2026-03-30T00:00:00Z",
+    "asset_data_file": "worlds/numinia-worlds.json"
+  },
+  {
+    "id": "numinia-audio",
+    "name": "Audio",
+    "creator_id": "Numinia",
+    "description": "Sound effects and music for games and experiences",
+    "is_public": true,
+    "license": "CC0",
+    "created_at": "2026-03-30T00:00:00Z",
+    "updated_at": "2026-03-30T00:00:00Z",
+    "asset_data_file": "audio/numinia-audio.json"
+  },
+  {
+    "id": "numinia-video",
+    "name": "Video",
+    "creator_id": "Numinia",
+    "description": "Video content for experiences and presentations",
+    "is_public": true,
+    "license": "CC0",
+    "created_at": "2026-03-30T00:00:00Z",
+    "updated_at": "2026-03-30T00:00:00Z",
+    "asset_data_file": "video/numinia-video.json"
   }
 ]

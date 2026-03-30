@@ -153,7 +153,7 @@
     "project_id": "numinia-avatars",
     "description": "VRM asset uploaded via Numinia Admin",
     "model_file_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/avatars/zombie-1-mnce4neh.vrm",
-    "thumbnail_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/thumbnails/zombie-1-mnce4neh.png",
+    "thumbnail_url": null,
     "format": "VRM",
     "is_public": true,
     "is_draft": false,
@@ -197,7 +197,7 @@
     "creator": null,
     "description": "VRM asset uploaded via Numinia Admin",
     "model_file_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/avatars/ndg-019d3ded-a1dd-7e0e-aeff-cb155bdff3d8.vrm",
-    "thumbnail_url": null,
+    "thumbnail_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/thumbnails/ndg-019d3ded-a1dd-7e0e-aeff-cb155bdff3d8.png",
     "format": "VRM",
     "project_id": "numinia-avatars",
     "nft": {

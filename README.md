@@ -181,7 +181,7 @@ Go to [numinia.store/en/admin](https://numinia.store/en/admin), connect with Met
 ## Links
 
 - [numinia.store](https://numinia.store)
-- [@numinia_xyz](https://twitter.com/numinia_xyz)
+- [@numinia_store](https://x.com/numinia_store)
 - [numen.games](https://numen.games)
 - [ID System Specification](https://github.com/PabloFMM/numinia-digital-goods/blob/main/ID_SYSTEM.md)
 - [Storage Strategy](https://github.com/PabloFMM/numinia-digital-goods/blob/main/STORAGE_STRATEGY.md)

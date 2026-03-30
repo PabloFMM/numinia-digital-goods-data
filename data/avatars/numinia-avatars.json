@@ -61,7 +61,7 @@
     "project_id": "numinia-avatars",
     "description": "VRM asset uploaded via Numinia Admin",
     "model_file_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/avatars/zombie-1-mnce4neh.vrm",
-    "thumbnail_url": null,
+    "thumbnail_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/thumbnails/zombie-1-mnce4neh.png",
     "format": "VRM",
     "is_public": true,
     "is_draft": false,

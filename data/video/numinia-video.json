@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "ndg-019d3e52-cb5a-748b-857b-11fbe88d7c6c",
+    "canonical": "ndg:mp4:019d3e52-cb5a-748b-857b-11fbe88d7c6c:v0.1.0",
+    "name": "Build What Feels Good",
+    "type": "mp4",
+    "version": "0.1.0",
+    "previous_version": null,
+    "status": "active",
+    "status_reason": null,
+    "license": "CC0",
+    "creator": null,
+    "description": "MP4 asset uploaded via Numinia Admin",
+    "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/video/ndg-019d3e52-cb5a-748b-857b-11fbe88d7c6c.mp4",
+    "thumbnail_url": null,
+    "format": "MP4",
+    "content_type": "video/mp4",
+    "file_size_bytes": 26601021,
+    "file_hash": null,
+    "project_id": "numinia-video",
+    "nft": {
+      "type": "standard",
+      "mint_status": "unminted",
+      "chain_id": null,
+      "contract": null,
+      "token_id": null,
+      "owner": null,
+      "mint_tx": null
+    },
+    "storage": {
+      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/video/ndg-019d3e52-cb5a-748b-857b-11fbe88d7c6c.mp4",
+      "ipfs_cid": null,
+      "arweave_tx": null,
+      "github_raw": null
+    },
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-03-30T10:38:27.887Z",
+    "updated_at": "2026-03-30T10:38:27.887Z",
+    "metadata": {}
+  }
+]

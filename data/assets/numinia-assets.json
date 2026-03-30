@@ -166,7 +166,7 @@
     "creator": null,
     "description": "GLB asset uploaded via Numinia Admin",
     "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/ndg-019d3f12-4dc2-750a-b79d-62d663c3186f.glb",
-    "thumbnail_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/thumbnails/ndg-019d3f12-4dc2-750a-b79d-62d663c3186f.png",
+    "thumbnail_url": null,
     "format": "GLB",
     "content_type": "model/gltf-binary",
     "file_size_bytes": 11446436,
@@ -187,10 +187,10 @@
       "arweave_tx": null,
       "github_raw": null
     },
-    "is_public": false,
+    "is_public": true,
     "is_draft": false,
     "created_at": "2026-03-30T14:07:39.277Z",
-    "updated_at": "2026-03-30T15:31:42.468Z",
+    "updated_at": "2026-03-30T16:10:53.013Z",
     "metadata": {}
   },
   {

@@ -191,9 +191,9 @@
     "metadata": {}
   },
   {
-    "id": "ndg-019d3f0e-1d3b-769b-a5e7-aa2e9b954dc5",
-    "canonical": "ndg:glb:019d3f0e-1d3b-769b-a5e7-aa2e9b954dc5:v0.1.0",
-    "name": "Symposyum Space 0.1.4",
+    "id": "ndg-019d3f11-752e-72f5-856e-ed7038aa45b6",
+    "canonical": "ndg:glb:019d3f11-752e-72f5-856e-ed7038aa45b6:v0.1.0",
+    "name": "Merge 0.1.18",
     "type": "glb",
     "version": "0.1.0",
     "previous_version": null,
@@ -202,11 +202,11 @@
     "license": "CC0",
     "creator": null,
     "description": "GLB asset uploaded via Numinia Admin",
-    "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/ndg-019d3f0e-1d3b-769b-a5e7-aa2e9b954dc5.glb",
+    "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/ndg-019d3f11-752e-72f5-856e-ed7038aa45b6.glb",
     "thumbnail_url": null,
     "format": "GLB",
     "content_type": "model/gltf-binary",
-    "file_size_bytes": 36526000,
+    "file_size_bytes": 32071372,
     "file_hash": null,
     "project_id": "numinia-assets",
     "nft": {
@@ -219,15 +219,15 @@
       "mint_tx": null
     },
     "storage": {
-      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/ndg-019d3f0e-1d3b-769b-a5e7-aa2e9b954dc5.glb",
+      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/ndg-019d3f11-752e-72f5-856e-ed7038aa45b6.glb",
       "ipfs_cid": null,
       "arweave_tx": null,
       "github_raw": null
     },
     "is_public": true,
     "is_draft": false,
-    "created_at": "2026-03-30T14:03:05.073Z",
-    "updated_at": "2026-03-30T14:03:05.073Z",
+    "created_at": "2026-03-30T14:06:46.415Z",
+    "updated_at": "2026-03-30T14:06:46.415Z",
     "metadata": {}
   }
 ]

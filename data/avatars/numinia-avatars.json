@@ -222,8 +222,8 @@
     "metadata": {}
   },
   {
-    "id": "ndg-019d3e53-17a2-71e4-91a5-3322973ed7ee",
-    "canonical": "ndg:vrm:019d3e53-17a2-71e4-91a5-3322973ed7ee:v0.1.0",
+    "id": "ndg-019d3e56-c719-7f8a-b919-8adc6e6561d2",
+    "canonical": "ndg:vrm:019d3e56-c719-7f8a-b919-8adc6e6561d2:v0.1.0",
     "name": "Avatar Senet 0.1.5",
     "type": "vrm",
     "version": "0.1.0",
@@ -233,7 +233,7 @@
     "license": "CC0",
     "creator": null,
     "description": "VRM asset uploaded via Numinia Admin",
-    "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/avatars/ndg-019d3e53-17a2-71e4-91a5-3322973ed7ee.vrm",
+    "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/avatars/ndg-019d3e56-c719-7f8a-b919-8adc6e6561d2.vrm",
     "thumbnail_url": null,
     "format": "VRM",
     "content_type": "model/gltf-binary",
@@ -250,15 +250,15 @@
       "mint_tx": null
     },
     "storage": {
-      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/avatars/ndg-019d3e53-17a2-71e4-91a5-3322973ed7ee.vrm",
+      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/avatars/ndg-019d3e56-c719-7f8a-b919-8adc6e6561d2.vrm",
       "ipfs_cid": null,
       "arweave_tx": null,
       "github_raw": null
     },
     "is_public": true,
     "is_draft": false,
-    "created_at": "2026-03-30T10:38:47.516Z",
-    "updated_at": "2026-03-30T10:38:47.516Z",
+    "created_at": "2026-03-30T10:42:48.698Z",
+    "updated_at": "2026-03-30T10:42:48.698Z",
     "metadata": {}
   }
 ]

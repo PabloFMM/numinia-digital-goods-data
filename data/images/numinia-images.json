@@ -120,5 +120,46 @@
     "created_at": "2026-03-30T20:45:31.981Z",
     "updated_at": "2026-03-30T20:45:31.981Z",
     "metadata": {}
+  },
+  {
+    "id": "ndg-019d408c-335a-79aa-901a-5118e55b9c4d",
+    "canonical": "ndg:jpg:019d408c-335a-79aa-901a-5118e55b9c4d:v0.1.0",
+    "name": "Image Alchemist 01",
+    "type": "jpg",
+    "version": "0.1.0",
+    "previous_version": null,
+    "status": "active",
+    "status_reason": null,
+    "license": "CC0",
+    "creator": null,
+    "description": "JPG asset uploaded via Numinia Admin",
+    "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/images/ndg-019d408c-335a-79aa-901a-5118e55b9c4d.jpg",
+    "thumbnail_url": null,
+    "format": "JPG",
+    "content_type": "image/jpeg",
+    "file_size_bytes": 338041,
+    "file_hash": null,
+    "project_id": "numinia-images",
+    "nft": {
+      "type": "standard",
+      "mint_status": "unminted",
+      "chain_id": null,
+      "contract": null,
+      "token_id": null,
+      "owner": null,
+      "mint_tx": null
+    },
+    "storage": {
+      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/images/ndg-019d408c-335a-79aa-901a-5118e55b9c4d.jpg",
+      "ipfs_cid": null,
+      "arweave_tx": null,
+      "github_raw": null
+    },
+    "tags": [],
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-03-30T21:00:23.956Z",
+    "updated_at": "2026-03-30T21:00:23.956Z",
+    "metadata": {}
   }
 ]

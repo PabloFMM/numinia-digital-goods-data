@@ -197,7 +197,7 @@
     "creator": null,
     "description": "VRM asset uploaded via Numinia Admin",
     "model_file_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/avatars/ndg-019d3ded-a1dd-7e0e-aeff-cb155bdff3d8.vrm",
-    "thumbnail_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/thumbnails/ndg-019d3ded-a1dd-7e0e-aeff-cb155bdff3d8.png",
+    "thumbnail_url": null,
     "format": "VRM",
     "project_id": "numinia-avatars",
     "nft": {
@@ -234,7 +234,7 @@
     "creator": null,
     "description": "VRM asset uploaded via Numinia Admin",
     "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/avatars/ndg-019d3e6c-129a-701e-95fc-ce1754d5c917.vrm",
-    "thumbnail_url": null,
+    "thumbnail_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/thumbnails/ndg-019d3e6c-129a-701e-95fc-ce1754d5c917.png",
     "format": "VRM",
     "content_type": "model/gltf-binary",
     "file_size_bytes": 9311896,

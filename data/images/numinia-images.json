@@ -40,9 +40,9 @@
     "metadata": {}
   },
   {
-    "id": "ndg-019d4067-9779-7f15-b909-d32c7365b8a5",
-    "canonical": "ndg:png:019d4067-9779-7f15-b909-d32c7365b8a5:v0.1.0",
-    "name": "Neo-Atlantists",
+    "id": "ndg-019d4067-c52d-7fcc-96ce-d44f3e725ff4",
+    "canonical": "ndg:png:019d4067-c52d-7fcc-96ce-d44f3e725ff4:v0.1.0",
+    "name": "Stellar Circle",
     "type": "png",
     "version": "0.1.0",
     "previous_version": null,
@@ -51,11 +51,11 @@
     "license": "CC0",
     "creator": null,
     "description": "PNG asset uploaded via Numinia Admin",
-    "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/images/ndg-019d4067-9779-7f15-b909-d32c7365b8a5.png",
+    "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/images/ndg-019d4067-c52d-7fcc-96ce-d44f3e725ff4.png",
     "thumbnail_url": null,
     "format": "PNG",
     "content_type": "image/png",
-    "file_size_bytes": 2166287,
+    "file_size_bytes": 2130992,
     "file_hash": null,
     "project_id": "numinia-images",
     "nft": {
@@ -68,7 +68,7 @@
       "mint_tx": null
     },
     "storage": {
-      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/images/ndg-019d4067-9779-7f15-b909-d32c7365b8a5.png",
+      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/images/ndg-019d4067-c52d-7fcc-96ce-d44f3e725ff4.png",
       "ipfs_cid": null,
       "arweave_tx": null,
       "github_raw": null
@@ -76,8 +76,8 @@
     "tags": [],
     "is_public": true,
     "is_draft": false,
-    "created_at": "2026-03-30T20:20:24.459Z",
-    "updated_at": "2026-03-30T20:20:24.459Z",
+    "created_at": "2026-03-30T20:20:36.313Z",
+    "updated_at": "2026-03-30T20:20:36.313Z",
     "metadata": {}
   }
 ]

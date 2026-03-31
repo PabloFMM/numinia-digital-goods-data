@@ -10,7 +10,7 @@
     "is_public": true,
     "is_draft": false,
     "created_at": "2026-03-27T21:00:00Z",
-    "updated_at": "2026-03-31T08:33:56.966Z",
+    "updated_at": "2026-03-30T00:00:00Z",
     "metadata": {},
     "canonical": "ndg:glb:pot-vapor-02:v1.0.0",
     "type": "glb",
@@ -30,7 +30,7 @@
       "mint_tx": null
     },
     "storage": {
-      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/pot-vapor-02.glb",
+      "r2": null,
       "ipfs_cid": null,
       "arweave_tx": null,
       "github_raw": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/models/pot-vapor-02.glb"
@@ -225,12 +225,12 @@
       "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/ndg-019d3f1b-9334-70aa-b946-0d516b241f56.glb",
       "ipfs_cid": null,
       "arweave_tx": null,
-      "github_raw": null
+      "github_raw": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/models/ndg-019d3f1b-9334-70aa-b946-0d516b241f56.glb"
     },
     "is_public": true,
     "is_draft": false,
     "created_at": "2026-03-30T14:17:46.782Z",
-    "updated_at": "2026-03-30T14:17:46.782Z",
+    "updated_at": "2026-03-31T08:34:26.363Z",
     "metadata": {}
   }
 ]

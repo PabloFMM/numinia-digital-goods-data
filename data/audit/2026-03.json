@@ -10,5 +10,65 @@
     "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
     "target": "ndg-019d3ded-a1dd-7e0e-aeff-cb155bdff3d8",
     "timestamp": "2026-03-31T08:27:08.974Z"
+  },
+  {
+    "action": "sync-to-r2",
+    "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
+    "target": "emotes-mncgsjjr",
+    "timestamp": "2026-03-31T08:33:52.637Z"
+  },
+  {
+    "action": "sync-to-r2",
+    "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
+    "target": "emotes-mncdnk6r",
+    "timestamp": "2026-03-31T08:33:53.317Z"
+  },
+  {
+    "action": "sync-to-r2",
+    "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
+    "target": "starter-avatar-01",
+    "timestamp": "2026-03-31T08:33:55.092Z"
+  },
+  {
+    "action": "sync-to-r2",
+    "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
+    "target": "starter-chair-01",
+    "timestamp": "2026-03-31T08:33:56.304Z"
+  },
+  {
+    "action": "sync-to-r2",
+    "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
+    "target": "pot-vapor-02",
+    "timestamp": "2026-03-31T08:33:57.641Z"
+  },
+  {
+    "action": "sync-to-github",
+    "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
+    "target": "ndg-019d42e2-31cf-7ce1-8737-ae554a50ad7d",
+    "timestamp": "2026-03-31T08:33:58.823Z"
+  },
+  {
+    "action": "sync-to-github",
+    "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
+    "target": "ndg-019d42d5-734e-7888-aa62-fc8fb02f6507",
+    "timestamp": "2026-03-31T08:33:59.885Z"
+  },
+  {
+    "action": "sync-to-github",
+    "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
+    "target": "ndg-019d40a1-f62b-7cd7-85bc-50904d915208",
+    "timestamp": "2026-03-31T08:34:05.884Z"
+  },
+  {
+    "action": "sync-to-github",
+    "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
+    "target": "ndg-019d409f-efb6-7808-a217-4c736e0bacb9",
+    "timestamp": "2026-03-31T08:34:06.806Z"
+  },
+  {
+    "action": "sync-to-github",
+    "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
+    "target": "ndg-019d4090-1aa3-7e61-ba8d-7c7d6ef532c3",
+    "timestamp": "2026-03-31T08:34:09.499Z"
   }
 ]

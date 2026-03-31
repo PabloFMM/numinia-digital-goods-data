@@ -105,12 +105,12 @@
       "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/ndg-019d3e66-c8d0-7fd2-b5a8-fca1af183e43.glb",
       "ipfs_cid": null,
       "arweave_tx": null,
-      "github_raw": null
+      "github_raw": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/models/ndg-019d3e66-c8d0-7fd2-b5a8-fca1af183e43.glb"
     },
     "is_public": true,
     "is_draft": false,
     "created_at": "2026-03-30T11:00:18.329Z",
-    "updated_at": "2026-03-30T11:00:18.329Z",
+    "updated_at": "2026-03-31T08:34:40.640Z",
     "metadata": {}
   },
   {
@@ -145,12 +145,12 @@
       "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/ndg-019d3e75-7731-7261-913d-842515f90190.glb",
       "ipfs_cid": null,
       "arweave_tx": null,
-      "github_raw": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/models/ndg-019d3e75-7731-7261-913d-842515f90190.glb"
+      "github_raw": null
     },
     "is_public": true,
     "is_draft": false,
     "created_at": "2026-03-30T11:16:19.607Z",
-    "updated_at": "2026-03-31T08:34:34.216Z",
+    "updated_at": "2026-03-30T11:16:19.607Z",
     "metadata": {}
   },
   {

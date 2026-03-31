@@ -10,7 +10,7 @@
     "is_public": true,
     "is_draft": false,
     "created_at": "2026-03-27T21:00:00Z",
-    "updated_at": "2026-03-30T00:00:00Z",
+    "updated_at": "2026-03-31T08:33:56.966Z",
     "metadata": {},
     "canonical": "ndg:glb:pot-vapor-02:v1.0.0",
     "type": "glb",
@@ -30,7 +30,7 @@
       "mint_tx": null
     },
     "storage": {
-      "r2": null,
+      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/pot-vapor-02.glb",
       "ipfs_cid": null,
       "arweave_tx": null,
       "github_raw": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/models/pot-vapor-02.glb"
@@ -47,7 +47,7 @@
     "is_public": true,
     "is_draft": false,
     "created_at": "2026-03-28T10:00:00Z",
-    "updated_at": "2026-03-31T08:33:55.710Z",
+    "updated_at": "2026-03-30T11:44:02.505Z",
     "metadata": {},
     "canonical": "ndg:glb:starter-chair-01:v1.0.0",
     "type": "glb",
@@ -67,7 +67,7 @@
       "mint_tx": null
     },
     "storage": {
-      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/starter-chair-01.glb",
+      "r2": null,
       "ipfs_cid": null,
       "arweave_tx": null,
       "github_raw": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/models/starter-chair-01.glb"

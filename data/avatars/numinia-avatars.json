@@ -142,12 +142,12 @@
       "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/avatars/ndg-019d3e6c-129a-701e-95fc-ce1754d5c917.vrm",
       "ipfs_cid": null,
       "arweave_tx": null,
-      "github_raw": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/avatars/ndg-019d3e6c-129a-701e-95fc-ce1754d5c917.vrm"
+      "github_raw": null
     },
     "is_public": true,
     "is_draft": false,
     "created_at": "2026-03-30T11:06:04.269Z",
-    "updated_at": "2026-03-31T08:34:37.697Z",
+    "updated_at": "2026-03-30T14:58:52.831Z",
     "metadata": {}
   },
   {
@@ -285,7 +285,7 @@
     "creator": null,
     "description": "VRM asset uploaded via Numinia Admin",
     "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/avatars/ndg-019d4090-1aa3-7e61-ba8d-7c7d6ef532c3.vrm",
-    "thumbnail_url": null,
+    "thumbnail_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/thumbnails/ndg-019d4090-1aa3-7e61-ba8d-7c7d6ef532c3.png",
     "format": "VRM",
     "content_type": "model/gltf-binary",
     "file_size_bytes": 3972524,

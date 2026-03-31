@@ -160,5 +160,14 @@
     "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
     "target": "ndg-019d3e52-cb5a-748b-857b-11fbe88d7c6c",
     "timestamp": "2026-03-31T08:34:47.432Z"
+  },
+  {
+    "action": "login",
+    "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
+    "metadata": {
+      "role": "admin",
+      "method": "wallet"
+    },
+    "timestamp": "2026-03-31T13:42:33.533Z"
   }
 ]

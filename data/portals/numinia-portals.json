@@ -1,0 +1,167 @@
+{
+  "hub": {
+    "id": "agora-plaza",
+    "name": "Ágora Plaza",
+    "description": "The central convergence node. All districts connect here.",
+    "url": "https://v2.oncyber.io/agora_plaza_of_numinia",
+    "position": { "x": 50, "y": 50 }
+  },
+  "districts": [
+    {
+      "id": "vitruvian",
+      "name": "Distrito Vitruvian",
+      "theme": "Educación, Investigación, Conocimiento",
+      "emblem": "torch",
+      "position": { "x": 25, "y": 20 },
+      "spaces": [
+        {
+          "id": "historical-society",
+          "name": "Sociedad Histórica",
+          "url": "https://v2.oncyber.io/historical_society_of_numinia",
+          "subspaces": []
+        },
+        {
+          "id": "atlantis-library",
+          "name": "Biblioteca Atlantis",
+          "url": "https://v2.oncyber.io/atlantis_library_of_numinia",
+          "subspaces": ["Cámara de Palimpsestos"]
+        },
+        {
+          "id": "lemuria-academy",
+          "name": "Academia Lemuria",
+          "url": "https://v2.oncyber.io/lemuria_academy_of_numinia",
+          "subspaces": []
+        },
+        {
+          "id": "ontological-schools",
+          "name": "Escuelas Ontológicas",
+          "url": null,
+          "subspaces": ["Materia Invisible", "Formas Emergentes", "Tiempo Fractal", "Lenguajes Primordiales", "Estados de la Conciencia"]
+        }
+      ]
+    },
+    {
+      "id": "sycamore",
+      "name": "Distrito Sycamore",
+      "theme": "Arte, Transformación, Estética",
+      "emblem": "harp",
+      "position": { "x": 75, "y": 20 },
+      "spaces": [
+        {
+          "id": "akasha-museum",
+          "name": "Museo Akasha",
+          "url": "https://v2.oncyber.io/akasha_museum_of_numinia",
+          "subspaces": ["Depósito de Artes y Reliquias"]
+        },
+        {
+          "id": "multiplex",
+          "name": "Multiplex",
+          "url": "https://v2.oncyber.io/multiplex_of_numinia",
+          "subspaces": []
+        },
+        {
+          "id": "forge",
+          "name": "La Forja",
+          "url": "https://v2.oncyber.io/forge_of_numinia",
+          "subspaces": []
+        },
+        {
+          "id": "free-academies",
+          "name": "Academias Libres",
+          "url": null,
+          "subspaces": ["Conservatorio del Neuma", "Círculo de las Mutaciones", "Taller de Iconogénesis"]
+        },
+        {
+          "id": "scenic-circle",
+          "name": "Círculo Escénico",
+          "url": null,
+          "subspaces": ["Teatro de los Sentidos", "Teatro de las Sombras", "Teatro de Fantasmagorías"]
+        }
+      ]
+    },
+    {
+      "id": "solomon",
+      "name": "Distrito Solomon",
+      "theme": "Justicia, Orden, Estructura",
+      "emblem": "gears",
+      "position": { "x": 25, "y": 80 },
+      "spaces": [
+        {
+          "id": "prytaneum",
+          "name": "Pritaneo",
+          "url": "https://v2.oncyber.io/the_prytaneum_of_numinia",
+          "subspaces": []
+        },
+        {
+          "id": "athenaeum",
+          "name": "Ateneo",
+          "url": "https://v2.oncyber.io/the_athenaeum_of_numinia",
+          "subspaces": []
+        },
+        {
+          "id": "the-mint",
+          "name": "Casa de la Moneda",
+          "url": "https://v2.oncyber.io/the_mint_of_numinia",
+          "subspaces": []
+        },
+        {
+          "id": "alchemists-tower",
+          "name": "Torre de los Alquimistas",
+          "url": "https://v2.oncyber.io/alchemists_tower",
+          "subspaces": ["Círculo de Iniciados"]
+        },
+        {
+          "id": "concordia-council",
+          "name": "Consejo de Concordia",
+          "url": null,
+          "subspaces": []
+        },
+        {
+          "id": "archive-summa",
+          "name": "Archivo Summa",
+          "url": null,
+          "subspaces": ["Sección Aleph"]
+        },
+        {
+          "id": "defense-organ",
+          "name": "Órgano de Defensa",
+          "url": null,
+          "subspaces": ["Puesto de Entrenamiento"]
+        }
+      ]
+    },
+    {
+      "id": "ouroboros",
+      "name": "Distrito Ouroboros",
+      "theme": "Juego, Ritual, Espiritualidad",
+      "emblem": "serpent",
+      "position": { "x": 75, "y": 80 },
+      "spaces": [
+        {
+          "id": "hyperborean-tavern",
+          "name": "Taberna Hyperborean",
+          "url": "https://v2.oncyber.io/hyperborean_tavern",
+          "subspaces": []
+        },
+        {
+          "id": "house-of-riddles",
+          "name": "Casa de los Acertijos",
+          "url": "https://v2.oncyber.io/house_of_riddles_of_numinia",
+          "subspaces": ["Foro de los Laberintos"]
+        },
+        {
+          "id": "temple-of-khepri",
+          "name": "Templo de Khepri",
+          "url": "https://v2.oncyber.io/temple_of_khepri",
+          "subspaces": ["Casa de los Oráculos", "Cenáculo de las Pitias", "Vórtice de los Sueños"]
+        },
+        {
+          "id": "old-quarter",
+          "name": "Barrio Viejo",
+          "url": null,
+          "subspaces": ["Calle de los Misterios", "Plaza de los Rumores", "Corredor de la Memoria"]
+        }
+      ]
+    }
+  ]
+}

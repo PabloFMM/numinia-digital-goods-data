@@ -10,7 +10,7 @@
     "is_public": true,
     "is_draft": false,
     "created_at": "2026-03-28T10:00:00Z",
-    "updated_at": "2026-03-30T00:00:00Z",
+    "updated_at": "2026-03-31T08:33:54.560Z",
     "metadata": {},
     "canonical": "ndg:vrm:starter-avatar-01:v1.0.0",
     "type": "vrm",
@@ -30,7 +30,7 @@
       "mint_tx": null
     },
     "storage": {
-      "r2": null,
+      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/avatars/starter-avatar-01.vrm",
       "ipfs_cid": null,
       "arweave_tx": null,
       "github_raw": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/avatars/starter-avatar-01.vrm"

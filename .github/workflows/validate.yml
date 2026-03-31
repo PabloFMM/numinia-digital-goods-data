@@ -1,0 +1,31 @@
+name: Validate JSON
+
+on:
+  push:
+    branches: [main]
+    paths: ['data/**/*.json']
+  pull_request:
+    branches: [main]
+    paths: ['data/**/*.json']
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate JSON files
+        run: |
+          echo "Checking all JSON files in data/..."
+          errors=0
+          for f in $(find data -name "*.json" -not -name ".gitkeep.json"); do
+            if ! python3 -m json.tool "$f" > /dev/null 2>&1; then
+              echo "INVALID JSON: $f"
+              errors=$((errors + 1))
+            fi
+          done
+          if [ $errors -gt 0 ]; then
+            echo "$errors invalid JSON file(s) found"
+            exit 1
+          fi
+          echo "All JSON files are valid"

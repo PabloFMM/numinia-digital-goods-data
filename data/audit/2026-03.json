@@ -4,5 +4,11 @@
     "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
     "target": "avatar-arla-mncdhz3l",
     "timestamp": "2026-03-31T08:19:14.486Z"
+  },
+  {
+    "action": "sync-to-r2",
+    "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
+    "target": "ndg-019d3ded-a1dd-7e0e-aeff-cb155bdff3d8",
+    "timestamp": "2026-03-31T08:27:08.974Z"
   }
 ]

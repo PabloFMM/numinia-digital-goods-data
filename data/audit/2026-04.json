@@ -16,5 +16,14 @@
       "method": "wallet"
     },
     "timestamp": "2026-04-01T12:14:03.055Z"
+  },
+  {
+    "action": "login",
+    "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
+    "metadata": {
+      "role": "admin",
+      "method": "wallet"
+    },
+    "timestamp": "2026-04-01T13:11:23.750Z"
   }
 ]

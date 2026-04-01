@@ -56,5 +56,15 @@
       "banId": "c052e0d8-8556-4274-8aa4-8c67d46a3a0c"
     },
     "timestamp": "2026-04-01T15:49:47.543Z"
+  },
+  {
+    "action": "login",
+    "actor": "0x367a745877Acc48B49696Cc613c398646aEb48DC",
+    "metadata": {
+      "role": "admin",
+      "rank": "oracle",
+      "method": "wallet"
+    },
+    "timestamp": "2026-04-01T16:45:37.432Z"
   }
 ]

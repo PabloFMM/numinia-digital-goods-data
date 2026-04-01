@@ -45,5 +45,16 @@
       "method": "wallet"
     },
     "timestamp": "2026-04-01T14:29:53.811Z"
+  },
+  {
+    "action": "ban",
+    "actor": "0x367a745877Acc48B49696Cc613c398646aEb48DC",
+    "target": "0x967d5ca1e39c745ffee9503db3b6af1c6369e37f",
+    "metadata": {
+      "reason": "Test 1",
+      "expiresAt": null,
+      "banId": "c052e0d8-8556-4274-8aa4-8c67d46a3a0c"
+    },
+    "timestamp": "2026-04-01T15:49:47.543Z"
   }
 ]

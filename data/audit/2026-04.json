@@ -25,5 +25,15 @@
       "method": "wallet"
     },
     "timestamp": "2026-04-01T13:11:23.750Z"
+  },
+  {
+    "action": "login",
+    "actor": "0xaE173E3F988A0d658Ba563482b609A805089e9E7",
+    "metadata": {
+      "role": "user",
+      "rank": "citizen",
+      "method": "wallet"
+    },
+    "timestamp": "2026-04-01T14:04:48.327Z"
   }
 ]

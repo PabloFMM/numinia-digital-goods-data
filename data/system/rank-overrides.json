@@ -1,0 +1,20 @@
+{
+  "overrides": [
+    {
+      "identifier": "0x42e62e421bedf2469826879ec1a0574d7d3cca26",
+      "identifierType": "wallet",
+      "rank": "oracle",
+      "assignedBy": "bootstrap",
+      "assignedAt": "2026-04-01T00:00:00Z",
+      "reason": "Co-founder / Oracle"
+    },
+    {
+      "identifier": "0x367a745877acc48b49696cc613c398646aeb48dc",
+      "identifierType": "wallet",
+      "rank": "oracle",
+      "assignedBy": "bootstrap",
+      "assignedAt": "2026-04-01T00:00:00Z",
+      "reason": "Co-founder / Oracle"
+    }
+  ]
+}

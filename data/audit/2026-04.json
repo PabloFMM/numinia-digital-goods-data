@@ -1,0 +1,11 @@
+[
+  {
+    "action": "login",
+    "actor": "0x367a745877Acc48B49696Cc613c398646aEb48DC",
+    "metadata": {
+      "role": "admin",
+      "method": "wallet"
+    },
+    "timestamp": "2026-04-01T09:22:08.603Z"
+  }
+]

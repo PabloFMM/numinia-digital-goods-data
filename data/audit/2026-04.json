@@ -66,5 +66,15 @@
       "method": "wallet"
     },
     "timestamp": "2026-04-01T16:45:37.432Z"
+  },
+  {
+    "action": "login",
+    "actor": "0x967d5ca1E39C745FfeE9503dB3b6AF1C6369E37f",
+    "metadata": {
+      "role": "user",
+      "rank": "nomad",
+      "method": "wallet"
+    },
+    "timestamp": "2026-04-01T20:01:50.805Z"
   }
 ]

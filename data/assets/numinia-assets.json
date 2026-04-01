@@ -123,7 +123,7 @@
     "status": "active",
     "status_reason": null,
     "license": "CC0",
-    "creator": null,
+    "creator": "",
     "description": "GLB asset uploaded via Numinia Admin",
     "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/ndg-019d3e75-7731-7261-913d-842515f90190.glb",
     "thumbnail_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/thumbnails/ndg-019d3e75-7731-7261-913d-842515f90190.png",
@@ -150,8 +150,9 @@
     "is_public": true,
     "is_draft": false,
     "created_at": "2026-03-30T11:16:19.607Z",
-    "updated_at": "2026-03-30T11:16:19.607Z",
-    "metadata": {}
+    "updated_at": "2026-04-01T14:26:31.758Z",
+    "metadata": {},
+    "tags": []
   },
   {
     "id": "ndg-019d3f12-4dc2-750a-b79d-62d663c3186f",

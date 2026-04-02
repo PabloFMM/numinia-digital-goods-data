@@ -76,5 +76,15 @@
       "method": "wallet"
     },
     "timestamp": "2026-04-01T20:01:50.805Z"
+  },
+  {
+    "action": "login",
+    "actor": "0x42e62e421bEdf2469826879Ec1a0574d7D3ccA26",
+    "metadata": {
+      "role": "admin",
+      "rank": "oracle",
+      "method": "wallet"
+    },
+    "timestamp": "2026-04-02T10:16:04.891Z"
   }
 ]

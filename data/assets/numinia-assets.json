@@ -317,9 +317,9 @@
     "metadata": {}
   },
   {
-    "id": "ndg-019dac80-80e6-7612-b989-a855c2726434",
-    "canonical": "ndg:glb:019dac80-80e6-7612-b989-a855c2726434:v0.1.0",
-    "name": "Artichoke",
+    "id": "ndg-019dac81-0d7b-7887-964e-1d5f3f7add08",
+    "canonical": "ndg:glb:019dac81-0d7b-7887-964e-1d5f3f7add08:v0.1.0",
+    "name": "Checkpoint Codemotion",
     "type": "glb",
     "version": "0.1.0",
     "previous_version": null,
@@ -328,11 +328,11 @@
     "license": "CC0",
     "creator": null,
     "description": "GLB asset uploaded via Numinia Admin",
-    "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/ndg-019dac80-80e6-7612-b989-a855c2726434.glb",
+    "model_file_url": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/ndg-019dac81-0d7b-7887-964e-1d5f3f7add08.glb",
     "thumbnail_url": null,
     "format": "GLB",
     "content_type": "model/gltf-binary",
-    "file_size_bytes": 172992,
+    "file_size_bytes": 297176,
     "file_hash": null,
     "project_id": "numinia-assets",
     "nft": {
@@ -345,7 +345,7 @@
       "mint_tx": null
     },
     "storage": {
-      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/ndg-019dac80-80e6-7612-b989-a855c2726434.glb",
+      "r2": "https://pub-eda9f42266254c179ab493dd1594bb5a.r2.dev/content/models/ndg-019dac81-0d7b-7887-964e-1d5f3f7add08.glb",
       "ipfs_cid": null,
       "arweave_tx": null,
       "github_raw": null
@@ -353,8 +353,8 @@
     "tags": [],
     "is_public": true,
     "is_draft": false,
-    "created_at": "2026-04-20T20:06:36.558Z",
-    "updated_at": "2026-04-20T20:06:36.558Z",
+    "created_at": "2026-04-20T20:07:12.565Z",
+    "updated_at": "2026-04-20T20:07:12.565Z",
     "metadata": {}
   }
 ]
